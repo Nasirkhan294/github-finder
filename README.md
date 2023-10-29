@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <h1>📖 Github Finder</h>
+</div>
 
-## Available Scripts
+This is a simple web-based GitHub finder application built using React and CSS. The application allows users to find GitHub profiles. This project is a great starting point for those who want to learn web development or want to build their own GitHub finder application.
 
-In the project directory, you can run:
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm start`
+  <ul>
+    <li>CSS</li>
+    <li>React</li>
+  </ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ### Key Features <a name="key-features"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] **Single Page App**
+- [x] **Search Functionality**
+- [x] **Medium Fidelity Design**
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run build`
+<!-- AUTHORS -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 👥 Authors <a name="authors"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👤 **Nasirkhan294**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- GitHub: [Nasirkhan294](https://github.com/Nasirkhan294)
+- Twitter: [NasirMa35888225](https://twitter.com/NasirMa35888225)
+- LinkedIn: [nasirmahd](https://www.linkedin.com/in/nasirmahd/)
 
-### `npm run eject`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- CONTRIBUTING -->
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤝 Contributing <a name="contributing"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Contributions, issues, and feature requests are welcome!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Feel free to check the [issues page](../../issues/).
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- SUPPORT -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ⭐️ Show your support <a name="support"></a>
 
-### Code Splitting
+If you find this repository helpful, please show your support by giving this repository some love. Your small gesture of appreciation will go a long way in encouraging me to keep bringing you more incredible content like this.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Analyzing the Bundle Size
+<!-- ACKNOWLEDGEMENTS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-### Making a Progressive Web App
+To all the individuals whose creativity and dedication inspired the codebase, I want to express my heartfelt gratitude. Your tireless efforts have left an indelible mark on this project and your contributions will be remembered for years to come. Thank you for being an integral part of our success.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Advanced Configuration
+## :question: FAQ <a name="faq"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **Can I fork and reuse this repository?**
 
-### Deployment
+Absolutely! Please feel free to fork and reuse this repository for your own projects.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- **Is it okay to improve this repository? Will my changes be accepted?**
 
-### `npm run build` fails to minify
+Definitely! We welcome any improvements or new ideas you may have. If your changes are good and align with the project's goals, we would be happy to accept them.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
